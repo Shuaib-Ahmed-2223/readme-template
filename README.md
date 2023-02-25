@@ -4,11 +4,11 @@ This is second line
 
 ---
 
-# Anisul Islam
-## Anisul islam
-### Anisul islam
-#### Anisul islam
-###### Anisul islam
+# Shoeb Ahmed
+## Shoeb Ahmed
+### Shoeb Ahmed
+#### Shoeb Ahmed
+###### Shoeb Ahmed
 <p>this is shoeb ahmed. i am 32 years old. my university is UIU</p>
 <i>this is an italic text</i>  
 
@@ -81,7 +81,7 @@ http://www.studywithanis.com
 [facebooklink]: http://anisfacebook.com 
 
 ### image syntax
-![profile](./images/shoeb.jpg)
+![profile](./images/)
 
 <img src="./images/resis.PNG" width="400" title="profile image"/>
 
