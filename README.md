@@ -1,15 +1,15 @@
 <!---MArkdown Tutorial---->
-Shoeb Ahmed<br/>  
+Shuaib Ahmed<br/>  
 This is second line 
 
 ---
 
-# Shoeb Ahmed
-## Shoeb Ahmed
-### Shoeb Ahmed
-#### Shoeb Ahmed
-###### Shoeb Ahmed
-<p>this is shoeb ahmed. i am 32 years old. my university is UIU</p>
+# Shuaib Ahmed
+## Shuaib Ahmed
+### Shuaib Ahmed
+#### Shuaib Ahmed
+###### Shuaib Ahmed
+<p>This is Shuaib ahmed. I am 32 years old. My university is AUST</p>
 <i>this is an italic text</i>  
 
 _this is an italic text_
@@ -81,7 +81,7 @@ http://www.studywithanis.com
 [facebooklink]: http://anisfacebook.com 
 
 ### image syntax
-![profile](./images/)
+![profile](./images/shoeb.jpg)
 
 <img src="./images/resis.PNG" width="400" title="profile image"/>
 
